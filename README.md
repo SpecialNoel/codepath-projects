@@ -6,15 +6,15 @@ A collection of projects completed or started during CodePath programs. I use th
 
 | Project | Status | Next Step |
 |---|---|---|
-| Bughound | Needs review | Audit existing functionality |
-| Docubot | Needs review | Review architecture and missing features |
-| Music Recommendation | Needs review | Identify improvements to the recommendation logic |
-| Mood Machine | Needs review | Review the current implementation |
-| Pawpal | Needs review | Audit features and UI |
-| Bytebites | Needs review | Review existing functionality |
-| Game Glitch Investigator | Needs review | Identify incomplete features |
-| Playlist Chaos | Needs review | Review functionality and edge cases |
-| Final Project | Needs review | Evaluate overall completeness |
+| [Bughound](https://github.com/SpecialNoel/ai110-module5tinker-bughound-starter) | Needs review | Audit existing functionality |
+| [Docubot](https://github.com/SpecialNoel/ai110-module4tinker-docubot-starter) | Needs review | Review architecture and missing features |
+| [Music Recommendation](https://github.com/SpecialNoel/ai110-module3show-musicrecommendersimulation-starter) | Needs review | Identify improvements to the recommendation logic |
+| [Mood Machine](https://github.com/SpecialNoel/ai110-module3tinker-themoodmachine-starter) | Needs review | Review the current implementation |
+| [Pawpal](https://github.com/SpecialNoel/ai110-module2show-pawpal-starter) | Needs review | Audit features and UI |
+| [Bytebites](https://github.com/SpecialNoel/bytebites_tinker_activity) | Needs review | Review existing functionality |
+| [Game Glitch Investigator](https://github.com/SpecialNoel/ai110-module1show-gameglitchinvestigator-starter) | Needs review | Identify incomplete features |
+| [Playlist Chaos](https://github.com/SpecialNoel/ai110-module1tinker-playlistchaos-starter) | Needs review | Review functionality and edge cases |
+| [Final Project](https://github.com/SpecialNoel/applied-ai-system-project) | Needs review | Evaluate overall completeness |
 
 ## Workflow
 
