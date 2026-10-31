@@ -14,7 +14,7 @@ A collection of projects completed or started during CodePath programs. I use th
 | [Bytebites](https://github.com/SpecialNoel/bytebites_tinker_activity) | Needs review | Review existing functionality |
 | [Game Glitch Investigator](https://github.com/SpecialNoel/ai110-module1show-gameglitchinvestigator-starter) | Needs review | Identify incomplete features |
 | [Playlist Chaos](https://github.com/SpecialNoel/ai110-module1tinker-playlistchaos-starter) | Needs review | Review functionality and edge cases |
-| [Final Project](https://github.com/SpecialNoel/applied-ai-system-project) | Needs review | Evaluate overall completeness |
+| [Musiholical](https://github.com/SpecialNoel/applied-ai-system-project) | Needs review | Evaluate overall completeness |
 
 ## Workflow
 
