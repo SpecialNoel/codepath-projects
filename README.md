@@ -8,7 +8,7 @@ A collection of projects completed or started during CodePath programs. I use th
 |---|---|---|
 | [Bughound](https://github.com/SpecialNoel/ai110-module5tinker-bughound-starter) | Needs review | Audit existing functionality |
 | [Docubot](https://github.com/SpecialNoel/ai110-module4tinker-docubot-starter) | Needs review | Review architecture and missing features |
-| [Music Recommendation](https://github.com/SpecialNoel/ai110-module3show-musicrecommendersimulation-starter) | Needs review | Identify improvements to the recommendation logic |
+| [Music Recommender](https://github.com/SpecialNoel/ai110-module3show-musicrecommendersimulation-starter) | Needs review | Identify improvements to the recommendation logic |
 | [Mood Machine](https://github.com/SpecialNoel/ai110-module3tinker-themoodmachine-starter) | Needs review | Review the current implementation |
 | [Pawpal](https://github.com/SpecialNoel/ai110-module2show-pawpal-starter) | Needs review | Audit features and UI |
 | [Bytebites](https://github.com/SpecialNoel/bytebites_tinker_activity) | Needs review | Review existing functionality |
